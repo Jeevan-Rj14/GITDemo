@@ -17,7 +17,7 @@ public class TestNGRunner extends AbstractTestNGCucumberTests{
 	{
 		return super.scenarios();
 		
-		//GIT Sample codding
+		
 
 		//GIT sample code from GITStuff
 		
@@ -25,6 +25,8 @@ public class TestNGRunner extends AbstractTestNGCucumberTests{
 		
 		
 		//Branches of Developer
+		
+		//merger conflict we developer
 	}
 	
 }
